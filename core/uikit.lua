@@ -1,15 +1,6 @@
 --BloxKit by Wicorn29 (https://github.com/wicorn29/bloxkit)
 
 
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/wicorn29/bloxkit/refs/heads/main/scripts/antikick.lua'))()
--- BloxKit's Built-in anti kick script. (Better to be safe than sorry.)
-
-
-
-
-
-
 --!strict
 local CoreGui           = game:GetService("CoreGui")
 local UserInputService  = game:GetService("UserInputService")
@@ -275,3 +266,6 @@ UserInputService.InputChanged:Connect(function(input)
         )
     end
 end)
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wicorn29/bloxkit/refs/heads/main/scripts/antikick.lua'))()
+-- BloxKit's Built-in anti kick script. (Better to be safe than sorry.)
