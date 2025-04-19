@@ -266,5 +266,3 @@ UserInputService.InputChanged:Connect(function(input)
         )
     end
 end)
-
--- BloxKit's Built-in anti kick script. (Better to be safe than sorry.)
