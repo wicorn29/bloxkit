@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Infinite Yield",
+    "description": "A powerful admin command script with tons of features.",
+    "url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+  },
+  {
+    "name": "Dark Dex",
+    "description": "An advanced explorer UI to inspect the game's internals.",
+    "url": "https://raw.githubusercontent.com/peyton2465/Dex/master/out.lua"
+  },
+  {
+    "name": "CMD-X",
+    "description": "Another admin script alternative with custom commands.",
+    "url": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"
+  },
+  {
+    "name": "Unnamed ESP",
+    "description": "ESP tool for identifying players, chests, and other entities.",
+    "url": "https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"
+  }
+]
