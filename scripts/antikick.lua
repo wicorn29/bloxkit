@@ -2,6 +2,8 @@
 
 -- This is the built-in anti kick script to BloxKit.
 
+print("BloxKit by Wicorn29 (Anti-Kick extension) Loaded")
+
 if getrawmetatable then
 	function formatargs(getArgs,v)
 		if #getArgs == 0 then 
