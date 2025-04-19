@@ -1,4 +1,12 @@
--- This is BloxKit by Wicorn29 (https://github.com/wicorn29/bloxkit)
+Print("BloxKit by Wicorn29 (https://github.com/wicorn29/bloxkit)")
+
+
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wicorn29/bloxkit/refs/heads/main/scripts/antikick.lua'))()
+-- BloxKit's Built-in anti kick script. (Better to be safe than sorry.)
+
+
+
 
 
 
