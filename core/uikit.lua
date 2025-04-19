@@ -267,5 +267,4 @@ UserInputService.InputChanged:Connect(function(input)
     end
 end)
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/wicorn29/bloxkit/refs/heads/main/scripts/antikick.lua'))()
 -- BloxKit's Built-in anti kick script. (Better to be safe than sorry.)
