@@ -1,4 +1,4 @@
-Print("BloxKit by Wicorn29 (https://github.com/wicorn29/bloxkit)")
+--BloxKit by Wicorn29 (https://github.com/wicorn29/bloxkit)
 
 
 
