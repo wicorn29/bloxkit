@@ -94,7 +94,7 @@ layout.Padding    = UDim.new(0, 6)
 layout.SortOrder  = Enum.SortOrder.LayoutOrder
 layout.Parent     = listFrame
 
--- Your script list
+-- script list
 local scriptList = {
     {
         Name = "Inf Yield",
@@ -119,6 +119,11 @@ local scriptList = {
         ]]
     }
 }
+
+
+print("BloxKit loaded!")
+
+
 
 -- Render Buttons
 local buttons = {}
